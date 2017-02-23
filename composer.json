@@ -1,13 +1,17 @@
 {
     "name": "iivannov/elegant-laravel-worker",
     "description": "Elegant way to gracefully handle SIGTERM signal in Laravel queue worker",
-    "keywords": ["laravel", "queue", "worker", "sigterm", "php"],
-    "homepage": "",
+    "keywords": ["laravel", "queue", "worker", "sigterm", "php", "deadlock"],
     "license": "MIT",
     "authors": [
         {
             "name": "Ivan Ivanov",
             "email": "iivannov@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Lachezar Todorov",
+            "email": "realbudhead@gmail.com",
             "role": "Developer"
         }
     ],
