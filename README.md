@@ -1,6 +1,7 @@
-# Elegant Laravel Worker
+# Elegant Laravel Worker for Laravel 5.3
 
-Elegant way to gracefully handle SIGTERM signal in Laravel queue worker.
+Elegant way to gracefully handle SIGTERM signal in Laravel 5.3 queue worker.
+In Laravel >=5.4 this issue is beautifully handled.
 ----------
 
 
