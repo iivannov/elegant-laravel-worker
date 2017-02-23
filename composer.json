@@ -1,0 +1,23 @@
+{
+    "name": "iivannov/elegant-laravel-worker",
+    "description": "Elegant way to gracefully handle SIGTERM signal in Laravel queue worker",
+    "keywords": ["laravel", "queue", "worker", "sigterm", "php"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Ivanov",
+            "email": "iivannov@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.6.4",
+        "illuminate/queue": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Iivannov\\ElegantWorker\\": "src"
+        }
+    }
+}
